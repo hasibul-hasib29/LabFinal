@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/myapp.dir/singletonTest.cpp.o CMakeFiles/myapp.dir/singleton.cpp.o -o myapp  -lpthread /usr/local/lib/libgtest_main.a /usr/local/lib/libgtest.a
